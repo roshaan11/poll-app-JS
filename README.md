@@ -1,0 +1,2 @@
+# poll-app-JS
+JAVASCRIPT PROJECT | POLL-APP 
